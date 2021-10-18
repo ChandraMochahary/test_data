@@ -1,0 +1,141 @@
+Component_Type,Component_,Component_Id
+Bonnet,Bonnet hood,1
+Bonnet,Support stick,2
+Bonnet,Hinges and springs,3
+Bumper,Unexposed bumper,4
+Bumper,Exposed Bumper,5
+Doors,Anti-intrusion bar,6
+Doors,Outer door handle,7
+Doors,Inner door handle,8
+Doors,Window motor,9
+Doors,Door control module,10
+Doors,Door seal,11
+Doors,Door water-shield,12
+Doors,Hinge,13
+Doors,Door latch,14
+Doors,Door lock and power door locks,15
+Doors,Central-locking,16
+Doors,Fuel tank (or fuel filler) door,17
+Windows,Glass,18
+Windows,Sunroof,19
+Windows,Sunroof Rail,20
+Windows,Sunroof Glass,21
+Windows,Window motor,22
+Windows,Window regulator,23
+Windows,Windshield (also called windscreen),24
+Windows,Window seal,25
+Audio video devices,Antenna cable,26
+Audio video devices,Radio and media player,27
+Audio video devices,Speaker,28
+Audio video devices,Tuner,29
+Audio video devices,Subwoofer,30
+Audio video devices,Video player,31
+Low voltage electrical supply system,Alternator,32
+Low voltage electrical supply system,Performance Battery,33
+Low voltage electrical supply system,Battery Box,34
+Low voltage electrical supply system,Battery Cable terminal,35
+Low voltage electrical supply system,Battery Cable,36
+Low voltage electrical supply system,Battery Control system,37
+Low voltage electrical supply system,Battery Plate,38
+Low voltage electrical supply system,Battery tray,39
+Low voltage electrical supply system,Battery Cap,40
+Low voltage electrical supply system,Sulphuric Acid ,41
+Low voltage electrical supply system,Distilled Water,42
+Low voltage electrical supply system,Voltage regulator,43
+Gauges and meters,Ammeter,44
+Gauges and meters,Clinometer,45
+Gauges and meters,Dynamometer,46
+Gauges and meters,Fuel gauge,47
+Gauges and meters,Manometer,48
+Gauges and meters,Hydrometer,49
+Gauges and meters,Odometer,50
+Gauges and meters,Speedometer,51
+Gauges and meters,Tachometer,52
+Gauges and meters,Temperature gauge,53
+Gauges and meters,Tire pressure gauge,54
+Gauges and meters,Vacuum gauge,55
+Gauges and meters,Voltmeter,56
+Gauges and meters,Water temperature meter,57
+Gauges and meters,Oil pressure gauge,58
+Ignition system,Sparking cable,59
+Ignition system,Distributor,60
+Ignition system,Distributor Cap,61
+Ignition system,Electronic timing controller,62
+Ignition system,Ignition box,63
+Ignition system,Ignition coil,64
+Ignition system,Ignition Coil Connector,65
+Ignition system,Ignition coil parts,66
+Ignition system,Ignition magneto,67
+Ignition system,Spark plug,68
+Ignition system,Glow Plug,69
+Lighting and signaling system,Engine bay lighting,70
+Lighting and signaling system,Fog light ,71
+Lighting and signaling system,Spotlight,72
+Lighting and signaling system,Headlight,73
+Lighting and signaling system,Interior light ,74
+Lighting and signaling system,License plate lamp,75
+Lighting and signaling system,Side lighting,76
+Lighting and signaling system,Brake light,77
+Lighting and signaling system,Tail light,78
+Lighting and signaling system,Indicator light,79
+Lighting and signaling system,Turn signal ,80
+Sensors,Airbag sensors,81
+Sensors,Automatic transmission speed sensor,82
+Sensors,Camshaft position sensor,83
+Sensors,Crankshaft position sensor,84
+Sensors,Coolant temperature sensor,85
+Sensors,Fuel level sensor,86
+Sensors,Fuel pressure sensor,87
+Sensors,Knock sensor,88
+Sensors,Light sensor,89
+Sensors,MAP sensor,90
+Sensors,Mass airflow sensor,91
+Sensors,Oil level sensor,92
+Sensors,Oil pressure sensor,93
+Sensors,Oxygen sensor ,94
+Sensors,Throttle position sensor,95
+Sensors,ABS Sensor,96
+Starting system,Starter drive,97
+Starting system,starter pinion gear,98
+Starting system,Starter motor,99
+Starting system,Starter solenoid,100
+Starting system,Glowplug,101
+Electrical switches,Battery Switch,102
+Electrical switches,Door switch,103
+Electrical switches,Ignition switch,104
+Electrical switches,Power window switch,105
+Electrical switches,Steering column switch,106
+Electrical switches,Switch cover,107
+Electrical switches,Switch panel,108
+Electrical switches,Thermostat,109
+Electrical switches,Frame switch,110
+Electrical switches,Fan ditch,111
+Electrical switches,Parts and functions of starter system,112
+Electrical switches,Neutral Safety Switch,113
+Wiring harnesses,Air conditioning harness,114
+Wiring harnesses,Engine compartment harness,115
+Wiring harnesses,Interior harness,116
+Wiring harnesses,floor harness,117
+Wiring harnesses,Main harness,118
+Wiring harnesses,control harness,119
+Miscellaneous,Air bag control module,120
+Miscellaneous,Alarm and siren,121
+Miscellaneous,Central locking system,122
+Miscellaneous,Chassis control computer,123
+Miscellaneous,Cruise control computer,124
+Miscellaneous,Door contact,125
+Miscellaneous,Engine computer and management system,126
+Miscellaneous,Engine control unit,127
+Miscellaneous,Fuse,128
+Miscellaneous,Ground strap,129
+Miscellaneous,Grab Handle,130
+Miscellaneous,Navigation system / GPS navigation device,131
+Miscellaneous,Performance chip,132
+Miscellaneous,Performance monitor,133
+Miscellaneous,Relay connector,134
+Miscellaneous,Remote lock,135
+Miscellaneous,Shift improver,136
+Miscellaneous,Speed controller,137
+Miscellaneous,Speedometer calibrator,138
+Miscellaneous,Transmission computer,139
+Miscellaneous,Wiring connector,140

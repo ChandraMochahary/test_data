@@ -1,0 +1,4 @@
+Error_Code,Description,Component_Type_Affected,Repair_Cost,Manpower
+0,No Error,0,0,0
+1,Ignition Error,8,500,2
+2,Sensor Error,10,300,1
